@@ -72,8 +72,10 @@ nav a{
 .section-4-a-2{
     background-color: #80808012;
     width: 51%;
+    text-align: center;
 
 }
+
 .section-4-a-2 h1,h3{
     text-align: center;
     font-family: sans-serif;
